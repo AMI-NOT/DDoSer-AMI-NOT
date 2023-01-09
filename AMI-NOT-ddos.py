@@ -1,3 +1,46 @@
+password = input("enter youre pass : ")
+while password != ("AMI-NOT"):
+	print("password ×")
+	password = input("enter youre pass : ")
+print("pasword☆")
+
+
+
+
+
+
+
+
+
+
+
+
+
+#Noob Editors
+#Posy you mother Editor
+from colorama import init, Fore
+init()
+from random import choice, randint
+print(------AMI-NOT------
+print(Fore.BLUE+'''
+  
+
+
+
+
+
+
+
+
+                   _               _
+                  (_)             | |
+    __ _ _ __ ___  _   _ __   ___ | |_
+   / _` | '_ ` _ \| | | '_ \ / _ \| __|
+  | (_| | | | | | | | | | | | (_) | |_
+   \__,_|_| |_| |_|_| |_| |_|\___/ \__|''')
+
+
+
 import time
 from time import sleep
 import socket
